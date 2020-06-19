@@ -12,6 +12,7 @@
     height:300px;
     width: 26%;
     overflow:auto;
+    margin: 10% 10% 10% 40%;
 }
 * {
   scrollbar-width: thin;
